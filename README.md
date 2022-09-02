@@ -22,7 +22,7 @@
 -   [x] Experiment with techniques of animation on the web `Framer-Motion`.
 -   [x] Be comfortable with `Git`, and `Git workflows`.
 -   [x] Get familiar with `Next.js` and have the ability to learn/adapt to new technologies.
--   [x] Sharpen awareness of `performance bottlenecks` and `cross-browser issues` `Lighthouse` & `Chrome Dev Tools`.
+-   [x] Sharpen awareness of `performance bottlenecks`, `cross-browser issues`, `Lighthouse` & `Chrome Dev Tools`.
 -   [ ] Gain an understanding of common `JavaScript design patterns`.
 -   [x] Fullstack experience, `GraphQL`, `Auth0`, `Stripe` and experience with headless CMS products `Strapi`.
 -   [ ] Develop with `Typescript`.
