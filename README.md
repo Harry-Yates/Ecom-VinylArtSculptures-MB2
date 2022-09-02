@@ -17,16 +17,16 @@
 
 -   [x] Improve `JS` knowledge.
 -   [x] Use web development workflows and build tools such as `NVM`, `NPM`.
--   [x] Sharpen skills with `responsive design` & `mobile web development.
+-   [x] Sharpen skills with `responsive design` & `mobile web development`.
 -   [x] Gain experience with various deployment platforms `Vercel`, `Heroku`.
--   [x] Experiment with techniques of animation on the web `Framer-Motion` and key frames.
--   [x] Be comfortable with Git, and Git workflows.
+-   [x] Experiment with techniques of animation on the web `Framer-Motion`.
+-   [x] Be comfortable with `Git`, and `Git workflows`.
 -   [x] Get familiar with `Next.js` and have the ability to learn/adapt to new technologies.
 -   [x] Sharpen awareness of `performance bottlenecks` and `cross-browser issues` `Lighthouse` & `Chrome Dev Tools`.
--   [ ] Gain an understanding of common JavaScript design patterns.
+-   [ ] Gain an understanding of common `JavaScript design patterns`.
 -   [x] Fullstack experience, `GraphQL`, `Auth0`, `Stripe` and experience with headless CMS products `Strapi`.
--   [ ] Develop with Typescript.
--   [ ] Code using TDD.
+-   [ ] Develop with `Typescript`.
+-   [ ] Code using `TDD`.
 
 ### :mechanical_arm: Solution:
 
